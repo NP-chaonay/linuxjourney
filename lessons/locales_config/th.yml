@@ -26,9 +26,9 @@ th:
       flag: "flags/Thailand.png"
   home:
     tagline: 
-      title: "Learn the ways of Linux-fu, for free."
+      title: "เรียนรู้วิถีของกังฟูลินุกซ์ ฟรี ๆ"
     subscribe:
-      title: "Subscribe"
+      title: "ติดตาม"
       body: "Get updates about new courses and lessons!"
     about:
       title: "เกี่ยวกับเรา"
@@ -36,18 +36,18 @@ th:
       url_name: "Contribute and Collaborate"
       url: "https://github.com/cindyq/linuxjourney"
     contact:
-      title: "Contact Us"
+      title: "ติดต่อเรา"
       body: "See a bug? Any complaints? Just want to send a note?"
-      url_name: "Let us know"
+      url_name: "บอกให้เรารู้"
       url: "contact@linuxjourney.com"
   courses:
     titles:
-      exercises: "Exercises"
-      quiz: "Quiz"
+      exercises: "แบบฝึกหัด"
+      quiz: "คำถาม"
   forms:
     buttons:
-      check_answer: "Check Answer"
-      continue: "Continue"
+      check_answer: "ตรวจคำตอบ"
+      continue: "ต่อไป"
       return: "Return to Main Menu"
       home: "Home"
     messages:
