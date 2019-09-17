@@ -37,7 +37,7 @@ th:
       url: "https://github.com/cindyq/linuxjourney"
     contact:
       title: "ติดต่อเรา"
-      body: "See a bug? Any complaints? Just want to send a note?"
+      body: "พบเจอปัญหา? มีเรื่องให้ร้องขอ? หรือต้องการส่งข้อความถึงเรา?"
       url_name: "บอกให้เรารู้"
       url: "contact@linuxjourney.com"
   courses:
@@ -48,8 +48,8 @@ th:
     buttons:
       check_answer: "ตรวจคำตอบ"
       continue: "ต่อไป"
-      return: "Return to Main Menu"
-      home: "Home"
+      return: "กลับไปสู่เมนูหลัก"
+      home: "หน้าแรก"
     messages:
-      answer_correct: "Correct answer!"
-      answer_incorrect: "Not quite, try again"
+      answer_correct: "เป็นคำตอบที่ถูกต้อง!"
+      answer_incorrect: "ยังไม่ถูกชักเท่าไหร่, ลองใหม่"
