@@ -1,16 +1,16 @@
-# Home Page
+# หน้าหลัก
 
 ## Grasshopper
 
 * Getting Started - What is Linux? Get started with choosing a distribution and installation.
 
-* Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
+* บรรทัดคำสั่ง - Learn the fundamentals of the command line, navigating files, directories and more.
 
 * Text-Fu - Learn basic text manipulation and navigation.
 
 * Advanced Text-Fu - Navigate text like a Linux spider monkey with vim and emacs.
 
-* User Management - Learn about user roles and management.
+* การจัดการผู้ใช้ - Learn about user roles and management.
 
 * Permissions - Learn about permission levels and modifying permissions.
 
@@ -36,7 +36,7 @@
 
 ## Networking Nomad
 
-* Network Sharing - Learn about network sharing with rsync, scp, nfs and more.
+* การแบ่งบันเครือข่าย - Learn about network sharing with rsync, scp, nfs and more.
 
 * Network Basics - Learn about networking basics and the TCP/IP model.
 
@@ -46,6 +46,6 @@
 
 * Network Config - Learn about network configuration using Linux tools!
 
-* Troubleshooting - Learn about common networking tools to help you diagnose and troubleshoot issues!
+* การแก้ไขปัญหา - Learn about common networking tools to help you diagnose and troubleshoot issues!
 
 * DNS - Everything and more that you wanted to know about DNS.

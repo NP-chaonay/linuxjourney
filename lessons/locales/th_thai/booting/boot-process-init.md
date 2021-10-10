@@ -1,6 +1,6 @@
 # Boot Process: Init
 
-## Lesson Content
+## เนื้อหาบทเรียน
 
 We've discussed init in previous lessons and know that it is the first process that gets started and it starts all the other essential services on our system. But how?
 

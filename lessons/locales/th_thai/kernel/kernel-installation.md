@@ -1,4 +1,4 @@
-# Kernel Installation
+# การติดตั้ง Kernel
 
 ## Lesson Content
 

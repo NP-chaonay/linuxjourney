@@ -1,6 +1,6 @@
 # Boot Process: BIOS
 
-## Lesson Content
+## เนื้อหาบทเรียน
 
 <b>BIOS</b>
 

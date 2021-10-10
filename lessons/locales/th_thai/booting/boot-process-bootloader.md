@@ -1,6 +1,6 @@
 # Boot Process: Bootloader
 
-## Lesson Content
+## เนื้อหาบทเรียน
 
 The bootloader's main responsibilities are:
 
